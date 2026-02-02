@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+}
+.store-toolbar {
+  display: flex;
+  justify-content: flex-end; 
+  align-items: center;
+}
